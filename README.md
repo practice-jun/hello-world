@@ -1,3 +1,3 @@
 # hello-world
 tutorial repository
-What the ?
+Hi! I'm Jun.
